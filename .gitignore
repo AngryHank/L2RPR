@@ -1,0 +1,9 @@
+.vs
+packages
+L2RPR/L2RPR.csproj.user
+L2RPR/obj/**
+L2RPR/bin/Debug/*
+!L2RPR/bin/Debug/CSV
+L2RPR/bin/Release/*
+!L2RPR/bin/Release/CSV
+
